@@ -43,7 +43,7 @@ class Anasayfa: UIViewController {
         let s6 = urunler(id: 6, ad: "  Meyve & Sebze", resim: "meyveSebze")
         let s7 = urunler(id: 7, ad: "Fırından", resim: "Fırından")
         let s8 = urunler(id: 8, ad: "Süt Ürünleri", resim: "Sut_Urunleri")
-        let s9 = urunler(id: 9, ad: "Atıştırmalık", resim: "Atistirmalik")
+        let s9 = urunler(id: 9, ad: "Atıştırmalıklar", resim: "Atistirmalik")
         let s10 = urunler(id: 10, ad: "Dondurma", resim: "dondurma")
         let s11 = urunler(id: 11, ad: "Temel Gıda", resim: "temel_gida")
         let s12 = urunler(id: 12, ad: "Kahvaltılık", resim: "kahvaltilik")
